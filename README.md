@@ -1,4 +1,5 @@
-# SoupFlip is a basic PCB coin that has 2 leds (heads or tails) or in this version left paw and right paw. You can activate 1 randomly by pressing the button. It is powered by a 2023 coin cell
+# SoupFlip 
+## SoupFlip is a basic PCB coin that has 2 leds (heads or tails) or in this version left paw and right paw. You can activate 1 randomly by pressing the button. It is powered by a 2023 coin cell
 made for Fallout
 
 ## PCB
